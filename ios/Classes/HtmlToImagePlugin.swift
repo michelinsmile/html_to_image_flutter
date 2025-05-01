@@ -2,13 +2,13 @@ import Flutter
 import UIKit
 import WebKit
 
-public class HtmlToImagePlugin: NSObject, FlutterPlugin {
+public class HtmlToImageFlutterPlugin: NSObject, FlutterPlugin {
     var webView: WKWebView!
     var urlObservation: NSKeyValueObservation?
 
     public static func register(with registrar: FlutterPluginRegistrar) {
         let channel = FlutterMethodChannel(name: "html_to_image_flutter", binaryMessenger: registrar.messenger())
-        let instance = HtmlToImagePlugin()
+        let instance = HtmlToImageFlutterPlugin()
         registrar.addMethodCallDelegate(instance, channel: channel)
     }
 

@@ -43,9 +43,9 @@ flutter:
     platforms:
       android:
         package: codingislife.htmltoimage
-        pluginClass: HtmlToImagePlugin
+        pluginClass: HtmlToImageFlutterPlugin
       ios:
-        pluginClass: HtmlToImagePlugin
+        pluginClass: HtmlToImageFlutterPlugin
 
 screenshots:
   - description: "Shows the html input field and convert buttons"

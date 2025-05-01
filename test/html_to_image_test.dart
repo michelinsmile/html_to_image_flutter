@@ -27,10 +27,10 @@ void main() {
   });
 
   // test('getPlatformVersion', () async {
-  //   HtmlToImage htmlToImagePlugin = HtmlToImage();
+  //   HtmlToImage HtmlToImageFlutterPlugin = HtmlToImage();
   //   MockHtmlToImagePlatform fakePlatform = MockHtmlToImagePlatform();
   //   HtmlToImagePlatform.instance = fakePlatform;
 
-  //   expect(await htmlToImagePlugin.getPlatformVersion(), '42');
+  //   expect(await HtmlToImageFlutterPlugin.getPlatformVersion(), '42');
   // });
 }

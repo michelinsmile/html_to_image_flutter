@@ -26,7 +26,7 @@ import org.json.JSONArray
 import java.io.ByteArrayOutputStream
 import kotlin.math.absoluteValue
 
-class HtmlToImagePlugin : FlutterPlugin, MethodChannel.MethodCallHandler, ActivityAware {
+class HtmlToImageFlutterPlugin : FlutterPlugin, MethodChannel.MethodCallHandler, ActivityAware {
 
     private lateinit var channel: MethodChannel
     private lateinit var activity: Activity
