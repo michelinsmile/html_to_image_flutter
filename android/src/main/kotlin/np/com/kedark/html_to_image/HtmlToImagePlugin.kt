@@ -1,4 +1,4 @@
-package codingislife.htmltoimage
+package codingislife.htmltoimageflutter
 
 import android.annotation.SuppressLint
 import android.app.Activity

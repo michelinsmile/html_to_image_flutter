@@ -42,7 +42,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: codingislife.htmltoimage
+        package: codingislife.htmltoimageflutter
         pluginClass: HtmlToImageFlutterPlugin
       ios:
         pluginClass: HtmlToImageFlutterPlugin

@@ -1,4 +1,4 @@
-package codingislife.htmltoimage
+package codingislife.htmltoimageflutter
 
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel
