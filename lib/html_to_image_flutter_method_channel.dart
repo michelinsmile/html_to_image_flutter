@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:html_to_image_flutter/html_to_image_platform_interface.dart';
+import 'package:html_to_image_flutter/html_to_image_flutter_platform_interface.dart';
 
 /// An implementation of [HtmlToImagePlatform] that uses method channels.
 class MethodChannelHtmlToImage extends HtmlToImagePlatform {

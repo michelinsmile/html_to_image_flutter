@@ -1,5 +1,5 @@
 import 'package:flutter/services.dart';
-import 'package:html_to_image_flutter/html_to_image_platform_interface.dart';
+import 'package:html_to_image_flutter/html_to_image_flutter_platform_interface.dart';
 
 class HtmlToImage {
   /// Converts the given HTML asset file to an image.

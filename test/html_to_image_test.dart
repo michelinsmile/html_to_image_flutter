@@ -1,8 +1,8 @@
 import 'dart:typed_data';
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:html_to_image_flutter/html_to_image_method_channel.dart';
-import 'package:html_to_image_flutter/html_to_image_platform_interface.dart';
+import 'package:html_to_image_flutter/html_to_image_flutter_method_channel.dart';
+import 'package:html_to_image_flutter/html_to_image_flutter_platform_interface.dart';
 // import 'package:html_to_image_flutter/html_to_image_flutter.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
